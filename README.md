@@ -10,3 +10,5 @@ In the MENSAJE, I defined a function with a for loop to send the "receipt".
 In the CALCULAR, I created a library and several lists to perform the operation with the different data provided by the client.
 # Flow Chart
 ![Diagrama sin título](https://github.com/user-attachments/assets/2e948d36-8454-4637-aa3b-e924ecac8472)
+
+repository URL: https://github.com/4ndr3s-00/Ejercicio-Python-.git
